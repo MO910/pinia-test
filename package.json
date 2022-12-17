@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.1.96",
+    "@pinia/nuxt": "^0.4.6",
+    "sass": "^1.56.1",
+    "vuetify": "^3.0.5"
+  },
+  "devDependencies": {
+    "deepmerge": "^4.2.2",
+    "nuxt": "3.0.0",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0"
+  }
+}
